@@ -39,8 +39,8 @@ Small, responsive age calculator built with plain HTML, CSS and JavaScript. Ente
 
 ## Author
 
-- tehjp
+- Tehj Patel
 
 ## License
 
-- MIT (or choose preferred license)
+- MIT
